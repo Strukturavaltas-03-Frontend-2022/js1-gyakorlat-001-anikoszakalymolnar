@@ -5,19 +5,19 @@
 //A summation visszatér a két szám összegével, a subtraction visszatér a két szám különbségével. 
 
 'use strict'
-    
-    // const summation = function (a=0, b=0) {
-    //     return (a + b)};
-    // console.log(summation(1, 2 ));
 
-    const summation = (a=0, b=0) => (a + b);
-    console.log(summation(1 ));
+// const summation = function (a=0, b=0) {
+//     return (a + b)};
+// console.log(summation(1, 2 ));
+
+const summation = (a = 0, b = 0) => (a + b);
+console.log(summation(1));
 
 
 
-    // const subtraction = function (a=0, b=0) {
-    //     return (a - b)};
-    // console.log(subtraction(1, 2 ));
+// const subtraction = function (a=0, b=0) {
+//     return (a - b)};
+// console.log(subtraction(1, 2 ));
 
-    const subtraction = (a=0, b=0) => (a - b);
-    console.log(subtraction(2 ));
+const subtraction = (a = 0, b = 0) => (a - b);
+console.log(subtraction(2));
