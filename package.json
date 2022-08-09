@@ -14,7 +14,9 @@
   },
   "author": "",
   "license": "MIT",
-  "dependencies": {},
+  "dependencies": {
+    "npm": "^8.16.0"
+  },
   "devDependencies": {
     "jest": "^27.2.4",
     "jest-puppeteer": "^6.0.0",
